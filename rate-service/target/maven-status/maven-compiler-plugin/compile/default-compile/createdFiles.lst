@@ -1,0 +1,5 @@
+com/rest/rates/RateServiceApplication.class
+com/rest/rates/services/RateService.class
+com/rest/rates/entities/Rate$RateBuilder.class
+com/rest/rates/entities/Rate.class
+com/rest/rates/controllers/RateController.class
